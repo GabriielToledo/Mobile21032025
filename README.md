@@ -1,2 +1,6 @@
-# Mobile21032025
-véspera de checkpoint
+## Aulas: Mobile App Development
+
+Remotas e Presencial 
+
+Profº Vinny Albuquerque 
+
